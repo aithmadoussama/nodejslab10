@@ -51,18 +51,7 @@ L’application réalisée est une plateforme nommée **Smart Task Hooks** qui c
 - useOnlineStatus  
 
 ---
-
-## ⚙️ Fonctionnalités réalisées
-
-✨ Gestion des tâches (Todo List)  
-🌗 Mode clair / sombre  
-🧭 Navigation entre pages  
-⏱ Horloge temps réel  
-🔢 Compteur interactif  
-🔍 Recherche optimisée  
-🎯 Focus automatique avec useRef  
-🌍 Détection de connexion internet  
-💾 Sauvegarde des données dans localStorage  
+ 
 
 ---
 
